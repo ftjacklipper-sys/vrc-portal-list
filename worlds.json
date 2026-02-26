@@ -1,0 +1,27 @@
+json
+{
+  "Categories": [
+    {
+      "CategoryName": "おすすめの場所",
+      "WorldList": [
+        {
+          "WorldName": "ワールドの名前A",
+          "WorldID": "wrld_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+        },
+        {
+          "WorldName": "ワールドの名前B",
+          "WorldID": "wrld_yyyyyyyy-yyyy-yyyy-yyyy-yyyyyyyyyyyy"
+        }
+      ]
+    },
+    {
+      "CategoryName": "イベント会場",
+      "WorldList": [
+        {
+          "WorldName": "会場1",
+          "WorldID": "wrld_zzzzzzzz-zzzz-zzzz-zzzz-zzzzzzzzzzzz"
+        }
+      ]
+    }
+  ]
+}
